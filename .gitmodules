@@ -1,0 +1,3 @@
+[submodule "p5js-game-framework"]
+	path = src/framework
+	url = git@github.com:tjvezina/p5js-game-framework.git
